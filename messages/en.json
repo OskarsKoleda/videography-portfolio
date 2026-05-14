@@ -2,6 +2,8 @@
   "Nav": {
     "home": "Home",
     "work": "Work",
+    "credits": "Credits",
+    "about": "About",
     "contact": "Contact"
   },
   "Language": {
@@ -13,7 +15,7 @@
   "Home": {
     "eyebrow": "Camera operator",
     "title": "Stories in motion, light, and sound",
-    "lead": "A compact portfolio of selected client work. For now you will see static placeholders; real videos can replace them later.",
+    "lead": "A compact portfolio of selected client work — with real reels on the site now, plus more context on credits and background.",
     "ctaWork": "View work",
     "ctaContact": "Get in touch",
     "heroVideoTitle": "Featured reel preview (muted)",
@@ -21,7 +23,43 @@
   },
   "Work": {
     "title": "Work",
-    "description": "Selected projects. Static placeholders for now; later you can embed YouTube (unlisted) or Vimeo."
+    "description": "Selected projects with embedded reels and a few staged placeholders mixed in. Swap any clip for a new YouTube or Vimeo ID when you refresh a piece."
+  },
+  "Credits": {
+    "title": "Selected credits",
+    "description": "A few recent roles and locations — the short version of where the camera has been lately.",
+    "item1": {
+      "title": "TV drama block",
+      "detail": "Studio-floor camera for a Baltic anthology series (fiction block, Vilnius)"
+    },
+    "item2": {
+      "title": "Arena concert",
+      "detail": "Handheld and roaming coverage for a Polish artist’s Warsaw show"
+    },
+    "item3": {
+      "title": "Festival headline",
+      "detail": "Multicam assist on a Latvian band’s summer concert in Jūrmala"
+    },
+    "item4": {
+      "title": "Stand-up special",
+      "detail": "Single-camera capture for a touring comic’s Vilnius club taping"
+    },
+    "item5": {
+      "title": "Documentary pickup",
+      "detail": "B-roll and vérité operating on a Baltic coast road-trip feature (Riga unit)"
+    },
+    "item6": {
+      "title": "Hybrid keynote",
+      "detail": "IMAG and ISO recording for a tech summit livestream in Tallinn"
+    }
+  },
+  "About": {
+    "eyebrow": "Background",
+    "title": "About Konstantin",
+    "lead": "Riga-based camera operator working across broadcast, live music, comedy, and branded content — usually with a passport stamp in the bag.",
+    "body1": "Konstantin picked up the craft on cramped student TV sets, then moved into concerts, multicam stages, and handheld documentary work. He is used to tight schedules, changing light, and directors who rewrite the shot list at lunch.",
+    "body2": "Recent seasons have mixed ENG-style field work with slower studio days: long lenses for music, wider glass for rooms that feel small, and plenty of time spent matching exposure between LED walls and tungsten practicals.",
+    "body3": "Based in Latvia, comfortable across the Baltics and Poland — Warsaw, Vilnius, Tallinn, and Jūrmala are all regular pins on the map. English, Latvian, and Russian on set; coffee preference is negotiable."
   },
   "Contact": {
     "title": "Contact",
@@ -33,42 +71,52 @@
     "opensNewTab": "Opens in a new tab"
   },
   "Footer": {
-    "tagline": "Camera operating and events",
+    "tagline": "Camera operating — broadcast, concerts, and live stages",
     "rights": "All rights reserved."
   },
   "PortfolioItems": {
-    "p1_title": "Corporate event — opening",
+    "p1_title": "Corporate summit — opening walk-in",
     "p1_category": "Event coverage",
-    "p1_client": "Demo client A",
-    "p2_title": "Music video — studio session",
+    "p1_client": "Northwind Labs",
+    "p2_title": "Session film — tracking shots",
     "p2_category": "Music",
-    "p2_client": "Demo artist",
-    "p3_title": "Sports club promo",
+    "p2_client": "Studio Aurora",
+    "p3_title": "Sports club winter promo",
     "p3_category": "Commercial",
-    "p3_client": "Demo club",
-    "p4_title": "Interview with lighting",
+    "p3_client": "Baltic Ice Academy",
+    "p4_title": "Portrait interview — mixed light",
     "p4_category": "Documentary",
-    "p5_title": "Wedding day highlights",
+    "p5_title": "City hall wedding highlights",
     "p5_category": "Wedding",
-    "p5_client": "Demo couple",
-    "p6_title": "Studio product — close-ups",
+    "p5_client": "Private clients",
+    "p6_title": "Packshot pass — macro table",
     "p6_category": "Studio",
-    "p7_title": "Featured piece — reel A",
+    "p7_title": "Featured reel — cut A",
     "p7_category": "Selection",
-    "p8_title": "Featured piece — reel B",
+    "p8_title": "Featured reel — cut B",
     "p8_category": "Selection",
-    "p9_title": "Featured piece — reel C",
+    "p9_title": "Featured reel — cut C",
     "p9_category": "Selection",
-    "p10_title": "Featured piece — reel D",
-    "p10_category": "Selection"
+    "p10_title": "Featured reel — cut D",
+    "p10_category": "Selection",
+    "p11_title": "Aftermovie — design week afterparty",
+    "p11_category": "Events",
+    "p11_client": "Riga Design Week",
+    "p12_title": "BTS — short film night exteriors",
+    "p12_category": "Narrative",
+    "p12_client": "Indie crew (NDA title)"
   },
   "Metadata": {
-    "siteName": "Camera operator portfolio",
-    "siteDescription": "Camera operating and event coverage. Portfolio and contact.",
+    "siteName": "Konstantin Tarantino",
+    "siteDescription": "Camera operator portfolio — reels, credits, and contact.",
     "homeTitle": "Home",
-    "homeDescription": "Camera operator portfolio — featured work and contact.",
+    "homeDescription": "Konstantin Tarantino — camera operator portfolio with featured reels and contact.",
     "workTitle": "Work",
-    "workDescription": "Selected video projects and demo placeholders.",
+    "workDescription": "Selected video projects — embedded reels and portfolio pieces.",
+    "creditsTitle": "Credits",
+    "creditsDescription": "Selected production credits — TV, concerts, comedy, and live events.",
+    "aboutTitle": "About",
+    "aboutDescription": "Background on Konstantin Tarantino — experience, regions, and how he works on set.",
     "contactTitle": "Contact",
     "contactDescription": "Reach the camera operator on social media."
   }

@@ -2,6 +2,8 @@
   "Nav": {
     "home": "Sākums",
     "work": "Darbi",
+    "credits": "Kredīti",
+    "about": "Par",
     "contact": "Kontakti"
   },
   "Language": {
@@ -13,7 +15,7 @@
   "Home": {
     "eyebrow": "Video operators",
     "title": "Stāsti kustībā, gaismā un skaņā",
-    "lead": "Neliels portfolio ar izvēlētiem klientu darbiem. Sākumā demonstrācijas vietturi — vēlāk šeit būs īsti video.",
+    "lead": "Kompakts portfolio ar izvēlētiem klientu darbiem — vietnē jau ir īsti montāžas fragmenti, kā arī papildu konteksts par kredītiem un pieredzi.",
     "ctaWork": "Skatīt darbus",
     "ctaContact": "Sazināties",
     "heroVideoTitle": "Ievads ar video (bez skaņas)",
@@ -21,7 +23,43 @@
   },
   "Work": {
     "title": "Darbi",
-    "description": "Atlasīti projekti. Šobrīd redzami statiski vietturi; vēlāk šeit var ievietot YouTube (nerindots) vai Vimeo."
+    "description": "Atlasīti projekti ar iegultajiem klipiem un dažiem demonstrācijas kadriem. Jebkuru fragmentu var nomainīt pret jaunu YouTube vai Vimeo ID."
+  },
+  "Credits": {
+    "title": "Izvēlētie kredīti",
+    "description": "Daži neseni uzdevumi un vietas — īsā versija par to, kur pēdējā laikā bijis operators.",
+    "item1": {
+      "title": "TV seriāla studijas bloks",
+      "detail": "Studijas grīdas operators baltu antoloģijas seriālam (fikcijas bloks, Viļņa)"
+    },
+    "item2": {
+      "title": "Arēnas koncerts",
+      "detail": "Rokassomā un brīvas kustības kadri poļu mākslinieces Varšavas šovam"
+    },
+    "item3": {
+      "title": "Festivāla galvenā uzstāšanās",
+      "detail": "Multikamera palīdzība latviešu grupas vasaras koncertam Jūrmalā"
+    },
+    "item4": {
+      "title": "Stendapa ieraksts",
+      "detail": "Vienas kameras ieraksts tūrejoša komiķa kluba uzstāšanā Viļņā"
+    },
+    "item5": {
+      "title": "Dokumentālā filma",
+      "detail": "B-ritms un vérité stils Baltijas piekrastes ceļa stāstam (Rīgas vienība)"
+    },
+    "item6": {
+      "title": "Hibrīda prezentācija",
+      "detail": "IMAG un ISO ieraksts tehnoloģiju sammita tiešraidē Tallinā"
+    }
+  },
+  "About": {
+    "eyebrow": "Pieredze",
+    "title": "Par Konstantinu",
+    "lead": "Rīgā bāzēts operators, kas strādā raidījumos, koncertos, komēdijā un zīmolu saturā — bieži ar ceļošanas zīmogu pasi.",
+    "body1": "Konstantins amatu apguva šauros studentu TV studijos, vēlāk pārgāja uz koncertiem, multicam skatuvēm un roku dokumentālo kadru filmēšanu. Viņš ir pieradis pie ciešiem grafikiem, mainīgas gaismas un režisoriem, kas pusdienās pārraksta uzdevumu sarakstu.",
+    "body2": "Pēdējās sezonās līdzās ENG stila laukam darbam bijušas arī lēnākas studijas dienas: gari objektīvi mūzikai, platāki kadri telpām, kas jūtas mazas, un laiks, lai saskaņotu ekspozīciju starp LED sienām un volframu praktiskajām gaismām.",
+    "body3": "Bāze Latvijā, brīvi jūtas Baltijā un Polijā — Varšava, Viļņa, Tallina un Jūrmala kartē parādās bieži. Setā latviešu, angļu un krievu valoda; kafijas preferences vienojamas."
   },
   "Contact": {
     "title": "Sazināties",
@@ -33,42 +71,52 @@
     "opensNewTab": "Atveras jaunā cilnē"
   },
   "Footer": {
-    "tagline": "Video operators un notikumi",
+    "tagline": "Video operators — raidījumi, koncerti un skatuves",
     "rights": "Visas tiesības aizsargātas."
   },
   "PortfolioItems": {
-    "p1_title": "Korporatīvais pasākums — atklāšana",
+    "p1_title": "Korporatīvais samits — atklāšanas ieeja",
     "p1_category": "Notikumu ieraksts",
-    "p1_client": "Demo klients A",
-    "p2_title": "Mūzikas video — studijas sesija",
+    "p1_client": "Northwind Labs",
+    "p2_title": "Sesijas filma — sekošanas kadri",
     "p2_category": "Mūzika",
-    "p2_client": "Demo mākslinieks",
-    "p3_title": "Sporta kluba reklāma",
+    "p2_client": "Studio Aurora",
+    "p3_title": "Sporta kluba ziemas reklāma",
     "p3_category": "Reklāma",
-    "p3_client": "Demo klubs",
-    "p4_title": "Intervija ar gaismu",
+    "p3_client": "Baltic Ice Academy",
+    "p4_title": "Portretintervija — jaukta gaisma",
     "p4_category": "Dokumentāls",
-    "p5_title": "Kāzu dienas fragmenti",
+    "p5_title": "Pašvaldības kāzu fragmenti",
     "p5_category": "Kāzas",
-    "p5_client": "Demo pāris",
-    "p6_title": "Studijas produkts — tuvplāni",
+    "p5_client": "Privātklienti",
+    "p6_title": "Produkta makro — tabula",
     "p6_category": "Studija",
-    "p7_title": "Izceltais darbs — montāža A",
+    "p7_title": "Izceltā montāža — A",
     "p7_category": "Atlase",
-    "p8_title": "Izceltais darbs — montāža B",
+    "p8_title": "Izceltā montāža — B",
     "p8_category": "Atlase",
-    "p9_title": "Izceltais darbs — montāža C",
+    "p9_title": "Izceltā montāža — C",
     "p9_category": "Atlase",
-    "p10_title": "Izceltais darbs — montāža D",
-    "p10_category": "Atlase"
+    "p10_title": "Izceltā montāža — D",
+    "p10_category": "Atlase",
+    "p11_title": "Pēcballītes filma — dizaina nedēļa",
+    "p11_category": "Pasākumi",
+    "p11_client": "Rīgas Dizaina nedēļa",
+    "p12_title": "Aizkadri — īsfilmai nakts āra kadri",
+    "p12_category": "Spēlfilma",
+    "p12_client": "Neatkarīga komanda (NDA nosaukums)"
   },
   "Metadata": {
-    "siteName": "Video operators portfolio",
-    "siteDescription": "Video operators un notikumu ieraksts. Portfolio un kontakti.",
+    "siteName": "Konstantin Tarantino",
+    "siteDescription": "Video operators portfolio — montāžas, kredīti un kontakti.",
     "homeTitle": "Sākums",
-    "homeDescription": "Video operators portfolio — izceltie darbi un kontaktinformācija.",
+    "homeDescription": "Konstantin Tarantino — video operators portfolio ar izceltajiem klipiem un kontaktu informāciju.",
     "workTitle": "Darbi",
-    "workDescription": "Atlasīti video projekti un demonstrācijas vietturi.",
+    "workDescription": "Atlasīti video projekti — iegulti klipi un portfolio darbi.",
+    "creditsTitle": "Kredīti",
+    "creditsDescription": "Atlasīti ražošanas kredīti — TV, koncerti, komēdija un tiešraides pasākumi.",
+    "aboutTitle": "Par",
+    "aboutDescription": "Pieredze par Konstantinu Tarantino — reģioni un darbs uz seta.",
     "contactTitle": "Kontakti",
     "contactDescription": "Sazinieties ar video operatoru sociālajos tīklos."
   }

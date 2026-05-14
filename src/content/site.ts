@@ -1,7 +1,7 @@
 /** Editable site identity — swap placeholders before launch. */
 export const site = {
   /** Used in metadata and JSON-LD */
-  personName: "Operator Name",
+  personName: "Konstantin Tarantino",
   /** Social profiles for footer, contact page, and JSON-LD `sameAs` */
   social: {
     instagram: "https://www.instagram.com/example",

@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 import { routing } from "@/i18n/routing";
 import { absoluteUrl } from "@/lib/site-url";
 
-const paths = ["/", "/work", "/contact"];
+const paths = ["/", "/work", "/credits", "/about", "/contact"];
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];

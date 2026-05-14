@@ -91,6 +91,20 @@ export const portfolioItems: PortfolioItem[] = [
     titleKey: "p6_title",
     categoryKey: "p6_category",
   },
+  {
+    id: "p11",
+    type: "placeholder",
+    titleKey: "p11_title",
+    categoryKey: "p11_category",
+    clientKey: "p11_client",
+  },
+  {
+    id: "p12",
+    type: "placeholder",
+    titleKey: "p12_title",
+    categoryKey: "p12_category",
+    clientKey: "p12_client",
+  },
 ];
 
 export function featuredPortfolioItems(): PortfolioItem[] {
