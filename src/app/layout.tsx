@@ -1,14 +1,18 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Inter } from "next/font/google";
+
+import { routing } from "@/i18n/routing";
+import { getSiteUrl } from "@/lib/site-url";
+
 import "./globals.css";
 
-const geistSans = Geist({
-  subsets: ["latin"],
+const inter = Inter({
+  subsets: ["latin", "latin-ext", "cyrillic"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio",
-  description: "Videography portfolio",
+  metadataBase: getSiteUrl(),
 };
 
 export default function RootLayout({
@@ -17,8 +21,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark">
-      <body className={`${geistSans.className} antialiased`}>
+    <html
+      lang={routing.defaultLocale}
+      className={`dark ${inter.className}`}
+      suppressHydrationWarning
+    >
+      <body className="min-h-svh bg-background text-foreground antialiased">
         {children}
       </body>
     </html>

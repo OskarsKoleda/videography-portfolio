@@ -1,0 +1,66 @@
+{
+  "Nav": {
+    "home": "Sākums",
+    "work": "Darbi",
+    "contact": "Kontakti"
+  },
+  "Language": {
+    "label": "Valoda",
+    "lv": "Latviešu",
+    "en": "English",
+    "ru": "Русский"
+  },
+  "Home": {
+    "eyebrow": "Video operators",
+    "title": "Stāsti kustībā, gaismā un skaņā",
+    "lead": "Neliels portfolio ar izvēlētiem klientu darbiem. Sākumā demonstrācijas vietturi — vēlāk šeit būs īsti video.",
+    "ctaWork": "Skatīt darbus",
+    "ctaContact": "Sazināties",
+    "featuredHeading": "Izceltie darbi"
+  },
+  "Work": {
+    "title": "Darbi",
+    "description": "Atlasīti projekti. Šobrīd redzami statiski vietturi; vēlāk šeit var ievietot YouTube (nerindots) vai Vimeo."
+  },
+  "Contact": {
+    "title": "Sazināties",
+    "description": "Vislabāk rakstiet tieši sociālajos tīklos — tur ātri atbildēšu un varam vienoties par detaļām.",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "telegram": "Telegram",
+    "vimeo": "Vimeo",
+    "opensNewTab": "Atveras jaunā cilnē"
+  },
+  "Footer": {
+    "tagline": "Video operators un notikumi",
+    "rights": "Visas tiesības aizsargātas."
+  },
+  "PortfolioItems": {
+    "p1_title": "Korporatīvais pasākums — atklāšana",
+    "p1_category": "Notikumu ieraksts",
+    "p1_client": "Demo klients A",
+    "p2_title": "Mūzikas video — studijas sesija",
+    "p2_category": "Mūzika",
+    "p2_client": "Demo mākslinieks",
+    "p3_title": "Sporta kluba reklāma",
+    "p3_category": "Reklāma",
+    "p3_client": "Demo klubs",
+    "p4_title": "Intervija ar gaismu",
+    "p4_category": "Dokumentāls",
+    "p5_title": "Kāzu dienas fragmenti",
+    "p5_category": "Kāzas",
+    "p5_client": "Demo pāris",
+    "p6_title": "Studijas produkts — tuvplāni",
+    "p6_category": "Studija"
+  },
+  "Metadata": {
+    "siteName": "Video operators portfolio",
+    "siteDescription": "Video operators un notikumu ieraksts. Portfolio un kontakti.",
+    "homeTitle": "Sākums",
+    "homeDescription": "Video operators portfolio — izceltie darbi un kontaktinformācija.",
+    "workTitle": "Darbi",
+    "workDescription": "Atlasīti video projekti un demonstrācijas vietturi.",
+    "contactTitle": "Kontakti",
+    "contactDescription": "Sazinieties ar video operatoru sociālajos tīklos."
+  }
+}

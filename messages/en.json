@@ -1,0 +1,66 @@
+{
+  "Nav": {
+    "home": "Home",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "Language": {
+    "label": "Language",
+    "lv": "Latviešu",
+    "en": "English",
+    "ru": "Русский"
+  },
+  "Home": {
+    "eyebrow": "Camera operator",
+    "title": "Stories in motion, light, and sound",
+    "lead": "A compact portfolio of selected client work. For now you will see static placeholders; real videos can replace them later.",
+    "ctaWork": "View work",
+    "ctaContact": "Get in touch",
+    "featuredHeading": "Featured work"
+  },
+  "Work": {
+    "title": "Work",
+    "description": "Selected projects. Static placeholders for now; later you can embed YouTube (unlisted) or Vimeo."
+  },
+  "Contact": {
+    "title": "Contact",
+    "description": "The fastest way to reach me is through social channels — we can align on timing and details there.",
+    "instagram": "Instagram",
+    "youtube": "YouTube",
+    "telegram": "Telegram",
+    "vimeo": "Vimeo",
+    "opensNewTab": "Opens in a new tab"
+  },
+  "Footer": {
+    "tagline": "Camera operating and events",
+    "rights": "All rights reserved."
+  },
+  "PortfolioItems": {
+    "p1_title": "Corporate event — opening",
+    "p1_category": "Event coverage",
+    "p1_client": "Demo client A",
+    "p2_title": "Music video — studio session",
+    "p2_category": "Music",
+    "p2_client": "Demo artist",
+    "p3_title": "Sports club promo",
+    "p3_category": "Commercial",
+    "p3_client": "Demo club",
+    "p4_title": "Interview with lighting",
+    "p4_category": "Documentary",
+    "p5_title": "Wedding day highlights",
+    "p5_category": "Wedding",
+    "p5_client": "Demo couple",
+    "p6_title": "Studio product — close-ups",
+    "p6_category": "Studio"
+  },
+  "Metadata": {
+    "siteName": "Camera operator portfolio",
+    "siteDescription": "Camera operating and event coverage. Portfolio and contact.",
+    "homeTitle": "Home",
+    "homeDescription": "Camera operator portfolio — featured work and contact.",
+    "workTitle": "Work",
+    "workDescription": "Selected video projects and demo placeholders.",
+    "contactTitle": "Contact",
+    "contactDescription": "Reach the camera operator on social media."
+  }
+}
