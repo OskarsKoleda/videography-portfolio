@@ -16,6 +16,7 @@
     "lead": "Neliels portfolio ar izvēlētiem klientu darbiem. Sākumā demonstrācijas vietturi — vēlāk šeit būs īsti video.",
     "ctaWork": "Skatīt darbus",
     "ctaContact": "Sazināties",
+    "heroVideoTitle": "Ievads ar video (bez skaņas)",
     "featuredHeading": "Izceltie darbi"
   },
   "Work": {
@@ -51,7 +52,15 @@
     "p5_category": "Kāzas",
     "p5_client": "Demo pāris",
     "p6_title": "Studijas produkts — tuvplāni",
-    "p6_category": "Studija"
+    "p6_category": "Studija",
+    "p7_title": "Izceltais darbs — montāža A",
+    "p7_category": "Atlase",
+    "p8_title": "Izceltais darbs — montāža B",
+    "p8_category": "Atlase",
+    "p9_title": "Izceltais darbs — montāža C",
+    "p9_category": "Atlase",
+    "p10_title": "Izceltais darbs — montāža D",
+    "p10_category": "Atlase"
   },
   "Metadata": {
     "siteName": "Video operators portfolio",

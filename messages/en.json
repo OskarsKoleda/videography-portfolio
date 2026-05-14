@@ -16,6 +16,7 @@
     "lead": "A compact portfolio of selected client work. For now you will see static placeholders; real videos can replace them later.",
     "ctaWork": "View work",
     "ctaContact": "Get in touch",
+    "heroVideoTitle": "Featured reel preview (muted)",
     "featuredHeading": "Featured work"
   },
   "Work": {
@@ -51,7 +52,15 @@
     "p5_category": "Wedding",
     "p5_client": "Demo couple",
     "p6_title": "Studio product — close-ups",
-    "p6_category": "Studio"
+    "p6_category": "Studio",
+    "p7_title": "Featured piece — reel A",
+    "p7_category": "Selection",
+    "p8_title": "Featured piece — reel B",
+    "p8_category": "Selection",
+    "p9_title": "Featured piece — reel C",
+    "p9_category": "Selection",
+    "p10_title": "Featured piece — reel D",
+    "p10_category": "Selection"
   },
   "Metadata": {
     "siteName": "Camera operator portfolio",

@@ -57,6 +57,15 @@ export default async function HomePage({ params }: Props) {
         <p className="max-w-xl text-base leading-relaxed text-muted-foreground">
           {t("lead")}
         </p>
+        <div className="aspect-video w-full max-w-4xl overflow-hidden rounded-xl border border-border bg-muted shadow-sm">
+          <iframe
+            title={t("heroVideoTitle")}
+            src="https://www.youtube-nocookie.com/embed/Ot9W8B8WzW0?autoplay=1&mute=1&playsinline=1&rel=0"
+            className="h-full w-full"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+          />
+        </div>
         <div className="flex flex-wrap gap-3">
           <Link
             href="/work"
