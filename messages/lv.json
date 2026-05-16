@@ -19,9 +19,9 @@
     "ru": "Русский"
   },
   "Home": {
-    "eyebrow": "Video operators",
+    "eyebrow": "Operators un montāža",
     "title": "Stāsti kustībā, gaismā un skaņā",
-    "lead": "Kompakts portfolio ar izvēlētiem klientu darbiem — vietnē jau ir īsti montāžas fragmenti, kā arī papildu konteksts par kredītiem un pieredzi.",
+    "lead": "Kompakts portfolio ar kameras un montāžas darbiem — vietnē ir īsti klipi, kredīti sadalīti starp uzņemšanu un darbu montāžas telpā.",
     "ctaWork": "Skatīt darbus",
     "ctaContact": "Sazināties",
     "heroVideoTitle": "Ievads ar video (bez skaņas)",
@@ -33,38 +33,64 @@
   },
   "Credits": {
     "title": "Izvēlētie kredīti",
-    "description": "Daži neseni uzdevumi un vietas — īsā versija par to, kur pēdējā laikā bijis operators.",
-    "item1": {
-      "title": "TV seriāla studijas bloks",
-      "detail": "Studijas grīdas operators baltu antoloģijas seriālam (fikcijas bloks, Viļņa)"
+    "description": "Nesenie kameras un montāžas darbi — sadalīti pēc uzņemšanas uz seta un darba montāžas telpā.",
+    "operatorHeading": "Video operators",
+    "montageHeading": "Montāža un montāžas darbs",
+    "operator": {
+      "item1": {
+        "title": "TV seriāla studijas bloks",
+        "detail": "Studijas grīdas operators baltu antoloģijas seriālam (fikcijas bloks, Viļņa)"
+      },
+      "item2": {
+        "title": "Arēnas koncerts",
+        "detail": "Rokassomā un brīvas kustības kadri poļu mākslinieces Varšavas šovam"
+      },
+      "item3": {
+        "title": "Festivāla galvenā uzstāšanās",
+        "detail": "Multikamera palīdzība latviešu grupas vasaras koncertam Jūrmalā"
+      },
+      "item4": {
+        "title": "Stendapa ieraksts",
+        "detail": "Vienas kameras ieraksts tūrejoša komiķa kluba uzstāšanā Viļņā"
+      },
+      "item5": {
+        "title": "Dokumentālā filma",
+        "detail": "B-ritms un vérité stils Baltijas piekrastes ceļa stāstam (Rīgas vienība)"
+      },
+      "item6": {
+        "title": "Hibrīda prezentācija",
+        "detail": "IMAG un ISO ieraksts tehnoloģiju sammita tiešraidē Tallinā"
+      }
     },
-    "item2": {
-      "title": "Arēnas koncerts",
-      "detail": "Rokassomā un brīvas kustības kadri poļu mākslinieces Varšavas šovam"
-    },
-    "item3": {
-      "title": "Festivāla galvenā uzstāšanās",
-      "detail": "Multikamera palīdzība latviešu grupas vasaras koncertam Jūrmalā"
-    },
-    "item4": {
-      "title": "Stendapa ieraksts",
-      "detail": "Vienas kameras ieraksts tūrejoša komiķa kluba uzstāšanā Viļņā"
-    },
-    "item5": {
-      "title": "Dokumentālā filma",
-      "detail": "B-ritms un vérité stils Baltijas piekrastes ceļa stāstam (Rīgas vienība)"
-    },
-    "item6": {
-      "title": "Hibrīda prezentācija",
-      "detail": "IMAG un ISO ieraksts tehnoloģiju sammita tiešraidē Tallinā"
+    "montage": {
+      "item1": {
+        "title": "Antoloģijas seriāla pakete",
+        "detail": "Četru antoloģijas epizožu montāža un finālais pulēšanas posms (fikcija, Viļņas postprodukcija)"
+      },
+      "item2": {
+        "title": "Arēnas tūres filma",
+        "detail": "Koncerta pēcfilma un sociālo tīklu versijas no multikameras ISO (Varšava)"
+      },
+      "item3": {
+        "title": "Festivāla atklāšana",
+        "detail": "Tās pašas nedēļas izcelto momentu montāža Baltijas festivāla atklāšanas vakaram (Jūrmala)"
+      },
+      "item4": {
+        "title": "Dizaina nedēļas ekrāni",
+        "detail": "Ātra montāža telpu ekrāniem Rīgas dizaina nedēļas pēcballītē"
+      },
+      "item5": {
+        "title": "Stendapa garā forma",
+        "detail": "Attēla fiksācija, gradācijas sagatavošana un miksāžas nodošana kluba komēdijas ierakstam (Viļņa)"
+      }
     }
   },
   "About": {
     "eyebrow": "Pieredze",
     "title": "Par Konstantinu",
-    "lead": "Rīgā bāzēts operators, kas strādā raidījumos, koncertos, komēdijā un zīmolu saturā — bieži ar ceļošanas zīmogu pasi.",
-    "body1": "Konstantins amatu apguva šauros studentu TV studijos, vēlāk pārgāja uz koncertiem, multicam skatuvēm un roku dokumentālo kadru filmēšanu. Viņš ir pieradis pie ciešiem grafikiem, mainīgas gaismas un režisoriem, kas pusdienās pārraksta uzdevumu sarakstu.",
-    "body2": "Pēdējās sezonās līdzās ENG stila laukam darbam bijušas arī lēnākas studijas dienas: gari objektīvi mūzikai, platāki kadri telpām, kas jūtas mazas, un laiks, lai saskaņotu ekspozīciju starp LED sienām un volframu praktiskajām gaismām.",
+    "lead": "Rīgā bāzēts video operators un montāžists raidījumos, koncertos, komēdijā un zīmolu saturā — bieži ar ceļošanas zīmogu pasi.",
+    "body1": "Konstantins amatu apguva šaurās studentu TV studijās, vēlāk pārgāja uz koncertiem, multicam skatuvēm un roku dokumentālo kadru filmēšanu. Tas pats stāsta un ritma izjūta vēlāk pārnesta arī montāžas telpā — montāža, temps un griezumi, kas joprojām jūtas kā viena roka pie kameras.",
+    "body2": "Pēdējās sezonās līdzās ENG stila laukam darbam ir arī montāžas bloki: gari objektīvi un brīva kustība uz skatuves, pēc tam laika līnijas koncertu filmām, TV blokiem un festivālu paketēm — un ierastā ekspozīcijas saskaņošana starp LED sienām un volframu praktiskajām gaismām.",
     "body3": "Bāze Latvijā, brīvi jūtas Baltijā un Polijā — Varšava, Viļņa, Tallina un Jūrmala kartē parādās bieži. Setā latviešu, angļu un krievu valoda; kafijas preferences vienojamas."
   },
   "Contact": {
@@ -79,7 +105,7 @@
     "opensNewTab": "Atveras jaunā cilnē"
   },
   "Footer": {
-    "tagline": "Video operators — raidījumi, koncerti un skatuves",
+    "tagline": "Video operators un montāža — raidījumi, koncerti un skatuves",
     "rights": "Visas tiesības aizsargātas."
   },
   "PortfolioItems": {
@@ -116,16 +142,16 @@
   },
   "Metadata": {
     "siteName": "Konstantin Tarantino",
-    "siteDescription": "Video operators portfolio — montāžas, kredīti un kontakti.",
+    "siteDescription": "Video operatora un montāžas portfolio — klipi, kredīti un kontakti.",
     "homeTitle": "Sākums",
-    "homeDescription": "Konstantin Tarantino — video operators portfolio ar izceltajiem klipiem un kontaktu informāciju.",
+    "homeDescription": "Konstantin Tarantino — kameras un montāžas portfolio ar izceltajiem klipiem un kontaktu informāciju.",
     "workTitle": "Darbi",
     "workDescription": "Atlasīti video projekti — iegulti klipi un portfolio darbi.",
     "creditsTitle": "Kredīti",
-    "creditsDescription": "Atlasīti ražošanas kredīti — TV, koncerti, komēdija un tiešraides pasākumi.",
+    "creditsDescription": "Atlasīti kredīti — video operators un montāža.",
     "aboutTitle": "Par",
-    "aboutDescription": "Pieredze par Konstantinu Tarantino — reģioni un darbs uz seta.",
+    "aboutDescription": "Pieredze par Konstantinu Tarantino — operators, montāža, reģioni un darbs uz seta un montāžas telpā.",
     "contactTitle": "Kontakti",
-    "contactDescription": "Sazinieties ar video operatoru sociālajos tīklos."
+    "contactDescription": "Sazinieties par operatora darbu, montāžu vai citiem jautājumiem sociālajos tīklos."
   }
 }

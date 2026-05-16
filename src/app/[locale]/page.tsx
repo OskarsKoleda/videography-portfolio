@@ -79,9 +79,9 @@ export default async function HomePage({ params }: Props) {
 
           <figure className="relative mx-auto w-full max-w-[min(100%,20rem)] lg:mx-0 lg:max-w-none">
             <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden>
-              <div className="absolute -right-4 top-4 size-[min(100%,18rem)] rounded-full bg-primary/15 blur-3xl md:-right-8 md:top-8" />
-              <div className="absolute bottom-0 right-1/4 size-48 rounded-full bg-chart-2/25 blur-2xl" />
-              <div className="absolute left-0 top-1/3 size-32 rounded-full bg-accent/40 blur-xl" />
+              <div className="absolute -right-4 top-4 size-[min(100%,18rem)] rounded-full bg-chart-1/20 blur-3xl md:-right-8 md:top-8" />
+              <div className="absolute bottom-0 right-1/4 size-48 rounded-full bg-chart-2/30 blur-2xl" />
+              <div className="absolute left-0 top-1/3 size-32 rounded-full bg-chart-3/25 blur-xl" />
             </div>
             {heroPortraitSrc ? (
               <Image

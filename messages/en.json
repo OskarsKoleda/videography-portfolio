@@ -19,9 +19,9 @@
     "ru": "Русский"
   },
   "Home": {
-    "eyebrow": "Camera operator",
+    "eyebrow": "Operator & montage",
     "title": "Stories in motion, light, and sound",
-    "lead": "A compact portfolio of selected client work — with real reels on the site now, plus more context on credits and background.",
+    "lead": "A compact portfolio of camera and edit work — reels on the site, with credits split between set days and time in the suite.",
     "ctaWork": "View work",
     "ctaContact": "Get in touch",
     "heroVideoTitle": "Featured reel preview (muted)",
@@ -33,38 +33,64 @@
   },
   "Credits": {
     "title": "Selected credits",
-    "description": "A few recent roles and locations — the short version of where the camera has been lately.",
-    "item1": {
-      "title": "TV drama block",
-      "detail": "Studio-floor camera for a Baltic anthology series (fiction block, Vilnius)"
+    "description": "Recent camera and edit work — grouped by what happened on set versus in the suite.",
+    "operatorHeading": "Camera operating",
+    "montageHeading": "Montage & editing",
+    "operator": {
+      "item1": {
+        "title": "TV drama block",
+        "detail": "Studio-floor camera for a Baltic anthology series (fiction block, Vilnius)"
+      },
+      "item2": {
+        "title": "Arena concert",
+        "detail": "Handheld and roaming coverage for a Polish artist’s Warsaw show"
+      },
+      "item3": {
+        "title": "Festival headline",
+        "detail": "Multicam assist on a Latvian band’s summer concert in Jūrmala"
+      },
+      "item4": {
+        "title": "Stand-up special",
+        "detail": "Single-camera capture for a touring comic’s Vilnius club taping"
+      },
+      "item5": {
+        "title": "Documentary pickup",
+        "detail": "B-roll and vérité operating on a Baltic coast road-trip feature (Riga unit)"
+      },
+      "item6": {
+        "title": "Hybrid keynote",
+        "detail": "IMAG and ISO recording for a tech summit livestream in Tallinn"
+      }
     },
-    "item2": {
-      "title": "Arena concert",
-      "detail": "Handheld and roaming coverage for a Polish artist’s Warsaw show"
-    },
-    "item3": {
-      "title": "Festival headline",
-      "detail": "Multicam assist on a Latvian band’s summer concert in Jūrmala"
-    },
-    "item4": {
-      "title": "Stand-up special",
-      "detail": "Single-camera capture for a touring comic’s Vilnius club taping"
-    },
-    "item5": {
-      "title": "Documentary pickup",
-      "detail": "B-roll and vérité operating on a Baltic coast road-trip feature (Riga unit)"
-    },
-    "item6": {
-      "title": "Hybrid keynote",
-      "detail": "IMAG and ISO recording for a tech summit livestream in Tallinn"
+    "montage": {
+      "item1": {
+        "title": "Anthology series package",
+        "detail": "Offline assembly and polish on four anthology episodes (fiction, Vilnius post)"
+      },
+      "item2": {
+        "title": "Arena tour film",
+        "detail": "Concert aftermovie and social cutdowns from multicam ISOs (Warsaw)"
+      },
+      "item3": {
+        "title": "Festival opener",
+        "detail": "Same-week highlight reel for a Baltic festival’s opening night (Jūrmala)"
+      },
+      "item4": {
+        "title": "Design week screens",
+        "detail": "Fast-turn cut for venue loops at a Riga design week afterparty"
+      },
+      "item5": {
+        "title": "Stand-up long form",
+        "detail": "Picture lock, grade prep, and mix handoff on a club comedy special (Vilnius)"
+      }
     }
   },
   "About": {
     "eyebrow": "Background",
     "title": "About Konstantin",
-    "lead": "Riga-based camera operator working across broadcast, live music, comedy, and branded content — usually with a passport stamp in the bag.",
-    "body1": "Konstantin picked up the craft on cramped student TV sets, then moved into concerts, multicam stages, and handheld documentary work. He is used to tight schedules, changing light, and directors who rewrite the shot list at lunch.",
-    "body2": "Recent seasons have mixed ENG-style field work with slower studio days: long lenses for music, wider glass for rooms that feel small, and plenty of time spent matching exposure between LED walls and tungsten practicals.",
+    "lead": "Riga-based camera operator and montage editor across broadcast, live music, comedy, and branded content — usually with a passport stamp in the bag.",
+    "body1": "Konstantin picked up the craft on cramped student TV sets, then moved into concerts, multicam stages, and handheld documentary work. The same instinct for rhythm and story later carried into the suite — assembly, pacing, and cuts that still feel like one hand on the camera.",
+    "body2": "Recent seasons mix ENG field days with edit-room blocks: long lenses and roaming coverage on stage, then timeline passes on concert films, TV blocks, and festival packages — plus the usual exposure wrangling between LED walls and tungsten practicals.",
     "body3": "Based in Latvia, comfortable across the Baltics and Poland — Warsaw, Vilnius, Tallinn, and Jūrmala are all regular pins on the map. English, Latvian, and Russian on set; coffee preference is negotiable."
   },
   "Contact": {
@@ -79,7 +105,7 @@
     "opensNewTab": "Opens in a new tab"
   },
   "Footer": {
-    "tagline": "Camera operating — broadcast, concerts, and live stages",
+    "tagline": "Camera operating & montage — broadcast, concerts, and live stages",
     "rights": "All rights reserved."
   },
   "PortfolioItems": {
@@ -116,16 +142,16 @@
   },
   "Metadata": {
     "siteName": "Konstantin Tarantino",
-    "siteDescription": "Camera operator portfolio — reels, credits, and contact.",
+    "siteDescription": "Camera operator and montage portfolio — reels, credits, and contact.",
     "homeTitle": "Home",
-    "homeDescription": "Konstantin Tarantino — camera operator portfolio with featured reels and contact.",
+    "homeDescription": "Konstantin Tarantino — camera and montage portfolio with featured reels and contact.",
     "workTitle": "Work",
     "workDescription": "Selected video projects — embedded reels and portfolio pieces.",
     "creditsTitle": "Credits",
-    "creditsDescription": "Selected production credits — TV, concerts, comedy, and live events.",
+    "creditsDescription": "Selected credits — camera operating and montage & editing.",
     "aboutTitle": "About",
-    "aboutDescription": "Background on Konstantin Tarantino — experience, regions, and how he works on set.",
+    "aboutDescription": "Background on Konstantin Tarantino — operating, montage, regions, and how he works on set and in the suite.",
     "contactTitle": "Contact",
-    "contactDescription": "Reach the camera operator on social media."
+    "contactDescription": "Reach out for camera operating, montage, or general inquiries on social media."
   }
 }
