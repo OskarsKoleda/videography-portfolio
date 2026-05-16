@@ -6,6 +6,12 @@
     "about": "About",
     "contact": "Contact"
   },
+  "Layout": {
+    "profileImageAlt": "Portrait of {name}",
+    "heroImageAlt": "Hero portrait",
+    "imageSlot": "Photo",
+    "heroImageHint": "Wire a file path in site settings when you are ready."
+  },
   "Language": {
     "label": "Language",
     "lv": "Latviešu",
@@ -64,7 +70,9 @@
   "Contact": {
     "title": "Contact",
     "description": "The fastest way to reach me is through social channels — we can align on timing and details there.",
+    "facebook": "Facebook",
     "instagram": "Instagram",
+    "twitter": "X (Twitter)",
     "youtube": "YouTube",
     "telegram": "Telegram",
     "vimeo": "Vimeo",

@@ -6,6 +6,12 @@
     "about": "Обо мне",
     "contact": "Контакты"
   },
+  "Layout": {
+    "profileImageAlt": "Портрет: {name}",
+    "heroImageAlt": "Портрет для главной",
+    "imageSlot": "Фото",
+    "heroImageHint": "Когда будет файл, укажите путь в `site.ts`."
+  },
   "Language": {
     "label": "Язык",
     "lv": "Latviešu",
@@ -64,7 +70,9 @@
   "Contact": {
     "title": "Контакты",
     "description": "Быстрее всего отвечу в соцсетях — там удобно согласовать сроки и детали.",
+    "facebook": "Facebook",
     "instagram": "Instagram",
+    "twitter": "X (Twitter)",
     "youtube": "YouTube",
     "telegram": "Telegram",
     "vimeo": "Vimeo",

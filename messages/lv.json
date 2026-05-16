@@ -6,6 +6,12 @@
     "about": "Par",
     "contact": "Kontakti"
   },
+  "Layout": {
+    "profileImageAlt": "Portrets — {name}",
+    "heroImageAlt": "Lielā portreta vieta",
+    "imageSlot": "Foto",
+    "heroImageHint": "Ceļu pievieno `site.ts`, kad bilde ir gatava."
+  },
   "Language": {
     "label": "Valoda",
     "lv": "Latviešu",
@@ -64,7 +70,9 @@
   "Contact": {
     "title": "Sazināties",
     "description": "Vislabāk rakstiet tieši sociālajos tīklos — tur ātri atbildēšu un varam vienoties par detaļām.",
+    "facebook": "Facebook",
     "instagram": "Instagram",
+    "twitter": "X (Twitter)",
     "youtube": "YouTube",
     "telegram": "Telegram",
     "vimeo": "Vimeo",

@@ -6,32 +6,41 @@ import { site } from "@/content/site";
 type SocialEntry = {
   id: string;
   href: string;
-  labelKey: "instagram" | "youtube" | "telegram" | "vimeo";
+  labelKey: "facebook" | "instagram" | "twitter" | "youtube" | "vimeo";
 };
 
 export async function SocialLinks({ variant }: { variant?: "default" | "compact" }) {
   const t = await getTranslations("Contact");
 
   const entries = [
+    ...(site.social.facebook
+      ? [
+          {
+            id: "facebook",
+            href: site.social.facebook,
+            labelKey: "facebook" as const,
+          },
+        ]
+      : []),
     {
       id: "instagram",
       href: site.social.instagram,
       labelKey: "instagram" as const,
     },
+    ...(site.social.twitter
+      ? [
+          {
+            id: "twitter",
+            href: site.social.twitter,
+            labelKey: "twitter" as const,
+          },
+        ]
+      : []),
     {
       id: "youtube",
       href: site.social.youtube,
       labelKey: "youtube" as const,
     },
-    ...(site.social.telegram
-      ? [
-          {
-            id: "telegram",
-            href: site.social.telegram,
-            labelKey: "telegram" as const,
-          },
-        ]
-      : []),
     ...(site.social.vimeo
       ? [
           {
